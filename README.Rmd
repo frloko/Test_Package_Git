@@ -1,0 +1,2 @@
+I am using this folder and its contents to learn git and Github.
+FL, 2017-01-10
