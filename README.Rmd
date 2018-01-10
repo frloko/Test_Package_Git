@@ -1,2 +1,3 @@
-I am using this folder and its contents to learn git and Github.
+I am using this folder and its contents to learn Git and Github.
+
 FL, 2017-01-10
